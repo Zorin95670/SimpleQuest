@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleQuest/IHM/Composants/Général/ListObjets.cs">
+    <Files>
+      <File FileName="SimpleQuest/AbstractClass/Zone/ZoneAbstraite.cs" Line="8" Column="30" />
+      <File FileName="SimpleQuest/AbstractClass/Objets/ObjetAbstrait.cs" Line="11" Column="3" />
+      <File FileName="SimpleQuest/AbstractClass/Personnage/PersonnageAbstrait.cs" Line="16" Column="36" />
+      <File FileName="SimpleQuest/AbstractClass/Objets/BourseAbstraite.cs" Line="8" Column="20" />
+      <File FileName="SimpleQuest/AbstractClass/Personnage/type/PersonnageType.cs" Line="8" Column="8" />
+      <File FileName="SimpleQuest/IHM/Composants/Général/ListObjets.cs" Line="10" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SimpleQuest" expanded="True">
+            <Node name="IHM" expanded="True">
+              <Node name="Composants" expanded="True">
+                <Node name="Général" expanded="True">
+                  <Node name="ListObjets.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
